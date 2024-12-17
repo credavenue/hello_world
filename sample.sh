@@ -1,5 +1,5 @@
 #!/bin/bash
 echo ">>>>>>>>>"
-echo "feature-1"
+echo "feature-2"
 echo ">>>>>>>>>"
-# exit 1
+exit 1
