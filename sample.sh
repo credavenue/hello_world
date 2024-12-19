@@ -1,5 +1,5 @@
 #!/bin/bash
 echo ">>>>>>>>>"
-echo "fix for feature-5"
+echo "for feature-6"
 echo ">>>>>>>>>"
 # exit 1
